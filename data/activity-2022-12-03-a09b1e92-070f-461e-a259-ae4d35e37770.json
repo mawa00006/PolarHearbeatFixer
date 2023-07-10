@@ -1,0 +1,66 @@
+{
+  "exportVersion": "1.8",
+  "date": "2022-12-03",
+  "summary": {
+    "startTime": "14:17:30.000",
+    "endTime": "14:18:00.000",
+    "calories": 1009,
+    "sleepQuality": 0.0,
+    "sleepDuration": "PT0S",
+    "inactivityAlertCount": 0,
+    "dailyMetMinutes": 0.6740761911320962,
+    "activityLevels": [
+      {
+        "level": "NO_DATA",
+        "duration": "PT0S"
+      },
+      {
+        "level": "SLEEP",
+        "duration": "PT0S"
+      },
+      {
+        "level": "SEDENTARY",
+        "duration": "PT0S"
+      },
+      {
+        "level": "LIGHT",
+        "duration": "PT30S"
+      },
+      {
+        "level": "CONTINUOS_MODERATE",
+        "duration": "PT0S"
+      },
+      {
+        "level": "INTERMITTENT_MODERATE",
+        "duration": "PT0S"
+      },
+      {
+        "level": "CONTINUOS_VIGOROUS",
+        "duration": "PT0S"
+      },
+      {
+        "level": "INTERMITTENT_VIGOROUS",
+        "duration": "PT0S"
+      },
+      {
+        "level": "NON_WEAR",
+        "duration": "PT0S"
+      }
+    ]
+  },
+  "samples": {
+    "mets": [
+      {
+        "localTime": "14:17:30.000",
+        "value": 3.1481523822641924
+      }
+    ],
+    "metSources": [
+      ""
+    ]
+  },
+  "physicalInformation": {
+    "maximumHeartRate": 198,
+    "restingHeartRate": 55
+  }
+}

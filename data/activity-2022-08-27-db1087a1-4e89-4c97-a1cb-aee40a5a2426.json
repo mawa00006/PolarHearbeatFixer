@@ -1,0 +1,21 @@
+{
+  "exportVersion": "1.8",
+  "date": "2022-08-27",
+  "samples": {
+    "mets": [
+      {
+        "value": 1.6117647058823532
+      },
+      {
+        "value": 1.6411764705882352
+      }
+    ],
+    "metSources": [
+      ""
+    ]
+  },
+  "physicalInformation": {
+    "maximumHeartRate": 198,
+    "restingHeartRate": 55
+  }
+}
